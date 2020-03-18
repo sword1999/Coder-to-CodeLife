@@ -1,9 +1,3 @@
-<style type="text/css">
-img{text-align: center;}
-</style>
-
-****
-
 ###### **我们经常在网上寻求一些知识的解答，从博客、论坛等经常会遇到误导他人的回答，为了能够寻找正确的答案，就需要去关注一些知名的blog主，或者一些书籍文档，我将主要以书籍的方式进行分享：**
 
 
@@ -12,7 +6,7 @@ img{text-align: center;}
 
 算是为初学者提供一个学习路线吧，高手请绕到后半部分，**众所周知，收藏就等于学会了**。真香。
 
-<img src="https://raw.githubusercontent.com/wiki/sword1999/Coder-to-CodeLife/画风突变.png"></img>
+<img style="text-align: center;" src="https://raw.githubusercontent.com/wiki/sword1999/Coder-to-CodeLife/画风突变.png"></img>
 
 ​                                                          
 
