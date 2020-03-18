@@ -4,7 +4,7 @@
 
 ![](https://raw.githubusercontent.com/wiki/sword1999/Coder-to-CodeLife/运营之光2.jpg)
 
-###### [《乌合之众》](<https://book.douban.com/subject/1012611/>_)
+###### [《乌合之众》](<https://book.douban.com/subject/1012611/>)
 
 ![](https://raw.githubusercontent.com/wiki/sword1999/Coder-to-CodeLife/乌合之众.jpg)
 
