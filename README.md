@@ -6,7 +6,11 @@
 
 算是为初学者提供一个学习路线吧，高手请绕到后半部分，**众所周知，收藏就等于学会了**。真香。
 
+<center>
+
 ![](https://raw.githubusercontent.com/wiki/sword1999/Coder-to-CodeLife/画风突变.png)
+
+
 
 ​                                                          
 
@@ -146,7 +150,7 @@
 
 ![](https://raw.githubusercontent.com/wiki/sword1999/Coder-to-CodeLife/a9.jpg)
 
-
+</center>
 
 ##############################我是分割线##############################
 
